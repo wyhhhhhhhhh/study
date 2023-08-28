@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pc/文档/open_biao/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/main.dir/src/main.cpp.o -c /home/pc/文档/open_biao/src/main.cpp",
+  "file": "/home/pc/文档/open_biao/src/main.cpp"
+}
+]
